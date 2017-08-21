@@ -4,7 +4,7 @@ This is an implementation of a Simple Portofolio [SPA] (Single Page Application)
 
 # The SPA App
 
-This is a simple site with a home, projects, and contact page. Clearly, AngularJS is built for much more advanced applications than this.. This [project] will show many of the concepts needed for implementing larger and more complex projects.
+This is a simple site with a home, projects, and contact page. Clearly, AngularJS is built for much more advanced applications than this. This [project] will show many of the concepts needed for implementing larger and more complex projects.
 
 # The Goals
 

@@ -8,7 +8,7 @@ This is a simple site with a home, projects, and contact page. Clearly, AngularJ
 
 # The Goals
 
-> - Single Page Application.
+> - A Single Page Application.
 > - No page refresh on page change.
 > - Different data displayed on each page.
 

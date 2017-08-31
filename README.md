@@ -12,6 +12,8 @@ This is a simple site with a home, projects, and contact page. Clearly, AngularJ
 > - No page refresh on page change.
 > - Different data displayed on each page.
 
+![Meteor SPA App](https://github.com/magesa/Simple-Portofolio-SPA-AngularJS/blob/master/SPA%20Img.PNG)
+
 [SPA]: <https://en.wikipedia.org/wiki/Single-page_application>
 
 [project]: <https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating>
